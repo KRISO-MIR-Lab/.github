@@ -1,4 +1,4 @@
-## 우루릉 꿍꽝낑 👋
+## [Marine Itelligence Robotics Lab]([url](https://www.mirlab.co.kr)) 👋
 
 <img width="1280" height="463" alt="MIR 로고_이미지" src="https://github.com/user-attachments/assets/a56cc007-2a18-4dd8-aa28-8fb693c76896" />
 
