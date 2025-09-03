@@ -8,6 +8,7 @@ Prof. Daegil Park
 
 Prfo. Jongboo Han
 
+박사님들 cv 요청 / github 추가 등등
 
 <!--
 
